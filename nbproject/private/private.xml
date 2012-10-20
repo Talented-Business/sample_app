@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/D:/rails/sample_app/Gemfile</file>
+        <file>file:/D:/rails/sample_app/config/routes.rb</file>
+        <file>file:/D:/rails/sample_app/app/controllers/application_controller.rb</file>
+        <file>file:/D:/rails/sample_app/app/views/layouts/application.html.erb</file>
+        <file>file:/D:/rails/sample_app/app/assets/stylesheets/custom.css.scss</file>
+        <file>file:/D:/rails/sample_app/app/assets/stylesheets/application.css</file>
+        <file>file:/D:/rails/sample_app/app/views/layouts/_header.html.erb</file>
+        <file>file:/D:/rails/sample_app/app/views/layouts/_shim.html.erb</file>
+        <file>file:/D:/rails/sample_app/app/assets/stylesheets/static_pages.css.scss</file>
+    </open-files>
 </project-private>
